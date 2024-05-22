@@ -99,5 +99,5 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chicho377&theme=nord" alt="chicho377" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chicho377&theme=flat&column=7" alt="chicho377" />
 </p>
