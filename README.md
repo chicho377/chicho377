@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabricio Mora Gomez</h1>
-<h3 align="center">Junior Full Stack Developer | Software Engineer</h3>
+<h3 align="center">Junior Full Stack Developer | Systems engineering</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chicho377&label=Profile%20views&color=04f1aa&style=flat-square" alt="chicho377" />
