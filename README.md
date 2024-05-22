@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabricio Mora Gomez</h1>
+<h1 align="center">Hi there! 👋, I'm Fabricio Mora Gomez</h1>
 <h3 align="center">Junior Full Stack Developer | Systems Engineering</h3>
 
 <p align="left">
@@ -11,11 +11,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Proyecto o Intereses Actuales]
+- 🔭 I’m currently working on **Proyecto o Intereses Actuales**
 
 - 🌱 I’m currently learning **Java, ReactJs, Angular**
 
-- 🎮 Playing [Valorant, Minecraft, COD, FiveM]
+- 🎮 Playing **Valorant, Minecraft, COD, FiveM**
 
 - 📫 How to reach me **morafabricio86@gmail.com**
 
@@ -101,3 +101,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chicho377&theme=flat&column=7" alt="chicho377" />
 </p>
+
+<h3 align="left">GitHub Activity Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=chicho377&theme=github" alt="chicho377" />
+</p>
+
+<h3 align="left">Recent GitHub Activity:</h3>
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/chicho377/repo/pull/123) in [chicho377/repo](https://github.com/chicho377/repo)
+2. 💼 Opened PR [#124](https://github.com/chicho377/repo/pull/124) in [chicho377/repo](https://github.com/chicho377/repo)
+3. 🎉 Merged PR [#122](https://github.com/chicho377/repo/pull/122) in [chicho377/repo](https://github.com/chicho377/repo)
+4. ❗️ Closed issue [#121](https://github.com/chicho377/repo/issues/121) in [chicho377/repo](https://github.com/chicho377/repo)
+5. 🗣 Commented on [#120](https://github.com/chicho377/repo/issues/120) in [chicho377/repo](https://github.com/chicho377/repo)
+<!--END_SECTION:activity-->
