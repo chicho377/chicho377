@@ -27,8 +27,8 @@
   <a href="https://instagram.com/fabricio_mora28" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabricio_mora28" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/fabricio-mora-gomez" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="Fabricio Mora Gomez" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/fabricio-mora-904927255" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="Fabricio Mora" height="40" width="40" />
   </a>
 </p>
 
