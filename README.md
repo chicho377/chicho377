@@ -24,8 +24,8 @@
   <a href="https://twitter.com/chicho377" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chicho377" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/chicho377" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chicho377" height="30" width="40" />
+  <a href="https://instagram.com/fabricio_mora28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabricio_mora28" height="30" width="40" />
   </a>
   <a href="https://discord.gg/..." target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hjsNgHeycT" height="30" width="40" />
