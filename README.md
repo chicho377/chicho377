@@ -61,8 +61,17 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
 
@@ -79,4 +88,16 @@
 <h3 align="left">GitHub Streak:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chicho377&theme=dark" alt="chicho377" />
+</p>
+
+<h3 align="left">Additional GitHub Metrics:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicho377&theme=monokai" alt="chicho377" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicho377&theme=monokai" alt="chicho377" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicho377&theme=monokai" alt="chicho377" />
+</p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chicho377&theme=flat&column=7" alt="chicho377" />
 </p>
