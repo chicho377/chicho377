@@ -27,7 +27,7 @@
   <a href="https://instagram.com/fabricio_mora28" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabricio_mora28" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/..." target="_blank">
+  <a href="https://discord.gg/chicho1168" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hjsNgHeycT" height="30" width="40" />
   </a>
 </p>
